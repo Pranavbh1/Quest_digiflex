@@ -1,0 +1,8 @@
+flask 
+python-dotenv 
+google-generativeai 
+flask-session
+mediapipe
+numpy
+opencv-python
+Werkzeug
