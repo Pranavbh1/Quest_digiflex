@@ -7,3 +7,5 @@ Pretrained Model :
 3.Experiments on Transformers (t1, t2)
 
 4.Experiments on mediapipe
+
+5.Timesformer
