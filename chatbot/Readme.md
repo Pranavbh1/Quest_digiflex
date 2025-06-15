@@ -5,5 +5,7 @@ In Mobile Application if a user hits :
 2. Chatbot : For Personal query(input - text/ audio, output- text)
 
 ###Run app.py
+
 ###Ensure to install all requirements
+
 ###Keep your api key inside .env folder
